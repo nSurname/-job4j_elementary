@@ -10,7 +10,7 @@ public class ArgMethod {
         int age = 6;
         ArgMethod.hello(name, age);
         ArgMethod.hello(name, age);
-        ArgMethod.hello(name,age);
+        ArgMethod.hello(name, age);
         ArgMethod.hello(name, age);
     }
     }
