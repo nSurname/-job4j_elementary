@@ -18,9 +18,9 @@ public class MathCalculator {
         return sum(first, second)
                 + multiply(first, second);
 
-                  aDifference(first, second);
+                +  aDifference(first, second);
 
-                  aDividing(first, second);
+                +  aDividing(first, second);
     }
 
     public static void main(String[] args) {
