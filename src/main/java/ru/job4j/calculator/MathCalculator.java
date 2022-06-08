@@ -16,11 +16,9 @@ public class MathCalculator {
 
     public static double sumAndMultiplyAndaDifferenceAndaDividing(double first, double second) {
         return sum(first, second)
-                + multiply(first, second);
-
-                +  aDifference(first, second);
-
-                +  aDividing(first, second);
+                + multiply(first, second)
+                +  aDifference(first, second)
+                + aDividing(first, second);
     }
 
     public static void main(String[] args) {
